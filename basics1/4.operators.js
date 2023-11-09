@@ -54,3 +54,15 @@ console.log(3 == "3") //It says true because == compares only the value and not 
 console.log(3 === "3") //Since data types are different so it returns false
 
 console.log(3 != 4) //Not Equal == operator. Here Output will be true 
+
+//
+console.log(2 + "2")
+console.log("2" + 2)
+//
+console.log("Hello" + "2")
+console.log("World" + 2)
+
+let num1 = 5
+let num2 = 11
+console.log("num1 + num2 = ", num1+num2)
+console.log("5 + 11 = ", num1+num2)
