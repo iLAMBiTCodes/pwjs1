@@ -66,3 +66,9 @@ let num1 = 5
 let num2 = 11
 console.log("num1 + num2 = ", num1+num2)
 console.log("5 + 11 = ", num1+num2)
+
+
+// Learn about && operator and (+) unary operator || opeartor, 
+// Also learn unary operator, binary operator, ternary operator, quaternary
+
+
