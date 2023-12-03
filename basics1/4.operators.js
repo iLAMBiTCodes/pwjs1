@@ -35,7 +35,7 @@ value2 += 10 //whatever the existing value of value2 is just add 10 to it. i.e. 
 let text1 = "What a very ";
 text1 += "nice day";
 console.log(text1)
-//  Similarly there are -=, -=, =/ **=
+//  Similarly there are -=, -=, /= **=
 
 
 
