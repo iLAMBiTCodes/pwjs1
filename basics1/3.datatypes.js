@@ -41,7 +41,7 @@ Functions
 // Array - How to declare it?? []. here Order matters
 const numbers = [1,2,3,4,5]
 const heros = ["Batman", "Superman", "Spiderman"]
-// Obejects  - Declaration {} - Order doesn't matter. we can add references like name age, isloggedin, etc
+// Objects  - Declaration {} - Order doesn't matter. we can add references like name age, isloggedin, etc
 const userObject = {
     name: "Lambit",
     age: 20,
@@ -59,7 +59,7 @@ let saybye = {}
 
 // Functions - How to declare. Syntax is shown below
 const hello = function(){
-    // Entire Code Functionality here. Function briings functionality to the code
+    // Entire Code Functionality here. Function brings functionality to the code
 }
 
 const helloworld = function(){
